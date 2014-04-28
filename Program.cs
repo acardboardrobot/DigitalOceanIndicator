@@ -49,7 +49,7 @@ namespace DigitalOceanIndicator
 
             systemTrayIcon.Text = "Digital Ocean Indicator";
 
-            systemTrayIcon.Icon = new Icon("favicon(1).ico");
+            systemTrayIcon.Icon = new Icon("icon.ico");
 
             systemTrayIcon.ContextMenu = contextMenu;
 
